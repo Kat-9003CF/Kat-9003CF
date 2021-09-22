@@ -1,4 +1,4 @@
-### Hi!
+### Hello!  Here's a little bit about me:
 
 - 🔭 I'm currently working on an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practice rounds.
 - 🌱 I'm currently improving my skills around building responsive designs in React.
