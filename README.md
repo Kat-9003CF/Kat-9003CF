@@ -25,5 +25,5 @@ CodeWars, CodeCademy, HackerRank, Free Code Camp
 
 ## Fun Facts
 - ⚡ I love gaming.  Particularly Horizon Zero Dawn, Dishonoured and Stardew Valley.
-- ⚡ I also play music.  I play the violin, flute and guitar, and I sing.  I mainly play Irish and Scottish music ([check out my instagram](http://www.instagram.com/kathurdleymusic)), but you can also find me performing as part of the [Sheffield Beatles Project](https://thesheffieldbeatlesproject.podbean.com/)
-- ⚡ In my spare time, I run my own jewellery business, [Willowbrook Artistry](http://www.willowbrookartistry.co.uk)
+- ⚡ I also play music.  I play the violin, flute and guitar, and I sing.  I mainly play Irish and Scottish music ([check out my instagram](http://www.instagram.com/kathurdleymusic)), but you can also find me performing as part of the [Sheffield Beatles Project](https://thesheffieldbeatlesproject.podbean.com/).
+- ⚡ In my spare time, I run my own jewellery business, [Willowbrook Artistry](http://www.willowbrookartistry.co.uk).
