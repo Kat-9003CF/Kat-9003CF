@@ -15,7 +15,7 @@ Raspberry Pi, Lego EV3 Robots
 ### Frameworks and Version Control
 GitHub, Express, React, Vue, Node, Yarn, npm, JQuery, Postman, Git
 
-- Coding Practice
+### Coding Practice
 CodeWars, CodeCademy, HackerRank, Free Code Camp
 
 ## My GitHub Projects
@@ -25,5 +25,5 @@ CodeWars, CodeCademy, HackerRank, Free Code Camp
 
 ## Fun Facts
 - ⚡ I love gaming.  Particularly Horizon Zero Dawn, Dishonoured and Stardew Valley.
-- ⚡ I also play music.  I play the violin, flute and guitar, and I sing.  I mainly play Irish and Scottish music ([link to my instagram](www.instagram.com/kathurdleymusic), but you can also find me performing as part of the [Sheffield Beatles Project](https://thesheffieldbeatlesproject.podbean.com/)
+- ⚡ I also play music.  I play the violin, flute and guitar, and I sing.  I mainly play Irish and Scottish music ([check out my instagram](www.instagram.com/kathurdleymusic)), but you can also find me performing as part of the [Sheffield Beatles Project](https://thesheffieldbeatlesproject.podbean.com/)
 - ⚡ In my spare time, I run my own jewellery business, [Willowbrook Artistry](http://www.willowbrookartistry.co.uk)
