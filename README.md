@@ -8,7 +8,7 @@
 
 ## Technical Experience
 - Languages
-![image]{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}<img src="{https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white}"/>
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})<img src="{https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white}"/>
 
 - Physical Computing 
 <img src="{https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white}"/>
