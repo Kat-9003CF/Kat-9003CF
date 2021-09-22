@@ -3,6 +3,7 @@
 - 🔭 I'm currently working on an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practice rounds.
 - 🌱 I'm currently improving my skills around building responsive designs in React.
 - 💬 Ask me about Lego EV3 robotics, and teaching children to code!  
+- Find me on LinkedIn - [drop me a message!](https://www.linkedin.com/in/katherine-hurdley-77468978/).
 
 
 ## Technical Experience
