@@ -1,18 +1,18 @@
 ### Kat Hurdley
 
--🔭I'm currently working on an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practise rounds.
--🌱I'm currently learning to 
--💬 Lego EV3 robotics, and teaching children to code!  
--⚡ I also play music, particularly violin and Irish and Scottish, but you can also find me as part of [Sheffield Beatles Project](https://thesheffieldbeatlesproject.podbean.com/)
--⚡ In my spare time, I run my own jewellery business, [Willowbrook Artistry](http://www.willowbrookartistry.co.uk)
+- 🔭I'm currently working on an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practise rounds.
+- 🌱I'm currently learning to 
+- 💬 Lego EV3 robotics, and teaching children to code!  
+- ⚡ I also play music, particularly violin and Irish and Scottish, but you can also find me as part of [Sheffield Beatles Project](https://thesheffieldbeatlesproject.podbean.com/)
+- ⚡ In my spare time, I run my own jewellery business, [Willowbrook Artistry](http://www.willowbrookartistry.co.uk)
 
 ## Technical Experience
-- Languages
--- JavaScript
--- HTML
--- CSS
--- MySQL
--- Python
+### Languages
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Python
 
 
 - Physical Computing 
