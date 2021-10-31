@@ -1,7 +1,7 @@
 ### Hello!  Here's a little bit about me:
 
 - 🔭 I'm currently working on an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practice rounds.
-- 🌱 I'm currently learning to use Ruby on Rails with Bootstrap, and building a simple 'Space Calendar'.
+- 🌱 I'm currently learning to use Ruby on Rails with Bootstrap, and building a simple 'Space Events Calendar'.
 - I'm working on improving my HTML and CSS skills with [FrontEnd Mentor](https://www.frontendmentor.io/).
 - 💬 Ask me about Lego EV3 robotics, and teaching children to code!  
 - Find me on LinkedIn - [drop me a message!](https://www.linkedin.com/in/katherine-hurdley-77468978/).
