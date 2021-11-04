@@ -27,6 +27,6 @@ CodeWars, CodeCademy, HackerRank, Free Code Camp
 - FrontEnd Mentor Challenges - Challenges I have been working on to improve my FrontEnd skills.  
 
 ## Fun Facts
-- ⚡ I love gaming.  Particularly Horizon Zero Dawn, Dishonoured and Stardew Valley.
+- ⚡ I love gaming.  Some of my favourites are Horizon Zero Dawn, Dishonoured and Stardew Valley, and I'm currently playing BioShock.
 - ⚡ I also play music.  I play the violin, flute and guitar, and I sing.  I mainly play Irish and Scottish music ([check out my instagram](http://www.instagram.com/kathurdleymusic)), but you can also find me performing as part of the [Sheffield Beatles Project](https://thesheffieldbeatlesproject.podbean.com/).
 - ⚡ In my spare time, I run my own jewellery business, [Willowbrook Artistry](http://www.willowbrookartistry.co.uk).
