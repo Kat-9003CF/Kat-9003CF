@@ -1,7 +1,7 @@
 ### Hello!  Here's a little bit about me:
 
-- 🔭 I'm currently working on an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practice rounds.
-- 🌱 I'm currently learning to use Ruby on Rails with Bootstrap, and building a simple 'Space Events Calendar'.
+- 🔭 I'm currently working on an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practice rounds.  (Full stack using React and an SQL database)
+- 🌱 I'm currently learning to use Ruby on Rails, and building a simple 'Space Events Calendar'.
 - I'm working on improving my HTML and CSS skills with [FrontEnd Mentor](https://www.frontendmentor.io/).
 - 💬 Ask me about Lego EV3 robotics, and teaching children to code!  
 - Find me on LinkedIn - [drop me a message!](https://www.linkedin.com/in/katherine-hurdley-77468978/).
@@ -9,10 +9,10 @@
 
 ## Technical Experience
 ### Languages
-JavaScript, HTML, CSS, MySQL, Python
+JavaScript, HTML, CSS, MySQL, Python, Ruby
 
 ### Physical Computing
-Raspberry Pi, Lego EV3 Robots
+[Raspberry Pi](https://www.raspberrypi.com/), [Lego EV3 Robots](https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-core-set/5003400#lego-mindstorms-education-ev3), [Abilix School Series Robots](http://www.wergame.org/), [MiRoCODE](https://www.miro-e.com/)
 
 ### Frameworks and Version Control
 GitHub, Express, React, Vue, Node, Yarn, npm, JQuery, Postman, Git
