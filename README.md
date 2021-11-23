@@ -26,6 +26,7 @@ CodeWars, CodeCademy, HackerRank, Free Code Camp
 - A calendar of Space Events using Ruby on Rails.
 - Daily Coding Challenges - Challenges I have been completing from Daily Coding Problems.
 - FrontEnd Mentor Challenges - Challenges I have been working on to improve my FrontEnd skills.  
+- A rock, paper, scissors game in Python.
 
 ## Fun Facts
 - ⚡ I love gaming.  Some of my favourites are Horizon Zero Dawn, Dishonoured and Stardew Valley, and I'm currently playing BioShock.
