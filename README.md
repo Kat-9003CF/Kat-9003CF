@@ -22,7 +22,8 @@ CodeWars, CodeCademy, HackerRank, Free Code Camp
 
 ## My GitHub Projects
 - Stardew Valley Visitor's Guide - a player's companion app for one of my favourite games.
-- A scoring app for the 2021/2022 Lego League challenge, Cargo Connect.
+- A scoring app for the 2021/2022 Lego League challenge, Cargo Connect (React and SQL).
+- A calendar of Space Events using Ruby on Rails.
 - Daily Coding Challenges - Challenges I have been completing from Daily Coding Problems.
 - FrontEnd Mentor Challenges - Challenges I have been working on to improve my FrontEnd skills.  
 
