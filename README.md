@@ -15,7 +15,7 @@ JavaScript, HTML, CSS, MySQL, Python, Ruby
 [Raspberry Pi](https://www.raspberrypi.com/), [Lego EV3 Robots](https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-core-set/5003400#lego-mindstorms-education-ev3), [Abilix School Series Robots](http://www.wergame.org/), [MiRoCODE](https://www.miro-e.com/)
 
 ### Frameworks and Version Control
-GitHub, Express, React, Vue, Node, Yarn, npm, JQuery, Postman, Git
+GitHub, Express, React, Vue, Node, Yarn, Postman, Git
 
 ### Coding Practice
 CodeWars, CodeCademy, HackerRank, Free Code Camp
