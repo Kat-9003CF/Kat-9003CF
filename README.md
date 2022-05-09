@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning to use Ruby on Rails, and building a simple 'Space Events Calendar'.
 - I'm working on improving my HTML and CSS skills with [FrontEnd Mentor](https://www.frontendmentor.io/).
 - 💬 Ask me about Lego EV3 robotics, and teaching children to code!  
-- Find me on LinkedIn - [drop me a message!](https://www.linkedin.com/in/katherine-hurdley-77468978/).
+- Find me on LinkedIn - [drop me a message!](https://www.linkedin.com/in/katherine-hurdley-77468978/)
 
 
 ## Technical Experience
