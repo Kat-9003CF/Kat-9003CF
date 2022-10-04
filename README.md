@@ -29,6 +29,6 @@ CodeWars, CodeCademy, HackerRank, Free Code Camp
 - A rock, paper, scissors game in Python.
 
 ## Fun Facts
-- ⚡ I love gaming.  Some of my favourites are Horizon Zero Dawn, Dishonoured and Stardew Valley, and I'm currently playing Prey, Phasmophobia and Horizon Forbidden West.
+- ⚡ I love gaming.  Some of my favourites are Horizon Zero Dawn, Dishonoured 2, Bloodborne and Stardew Valley, and I'm currently playing Prey, Phasmophobia and Horizon Forbidden West.
 - ⚡ I also play music.  I play the violin, flute and guitar, and I sing.  I mainly play Irish and Scottish music ([check out my instagram](http://www.instagram.com/kathurdleymusic)), but you can also find me performing as part of the [Sheffield Beatles Project](https://thesheffieldbeatlesproject.podbean.com/).
 - ⚡ In my spare time, I run my own jewellery business, [Willowbrook Artistry](http://www.willowbrookartistry.co.uk).
