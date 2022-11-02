@@ -1,6 +1,7 @@
 ### Hello!  Here's a little bit about me:
 
-- 🔭 I'm currently working on an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practice rounds.  (Full stack using React and an SQL database)
+- 🔭 I'm currently working on:
+..* an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practice rounds.  (Full stack using React and an SQL database)
 - 🌱 I'm currently working on my responsive design and animation skills.
 - I'm working on improving my HTML and CSS skills with [FrontEnd Mentor](https://www.frontendmentor.io/).
 - 💬 Ask me about Lego EV3 robotics, and teaching children to code!  
