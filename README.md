@@ -11,7 +11,7 @@
 
 ## Technical Experience
 ### Languages
-JavaScript, HTML, CSS, MySQL, Python, Ruby
+Typescript, JavaScript, HTML, CSS, MySQL, Python, Ruby
 
 ### Physical Computing
 [Raspberry Pi](https://www.raspberrypi.com/), [Lego EV3 Robots](https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-core-set/5003400#lego-mindstorms-education-ev3), [Abilix School Series Robots](http://www.wergame.org/), [MiRoCODE](https://www.miro-e.com/)
