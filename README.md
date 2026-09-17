@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently working on:
   - an app to help [Lego League](https://education.theiet.org/first-lego-league-programmes/) teams and coaches track their robot game scores in practice rounds.  (Full stack using React and an SQL database)
-  - a virtual programme for Whitby Folk Week.  (Mobile app using typescript, NextJs and React)
 - 🌱 I'm currently working on my responsive design and animation skills.
 - I'm working on improving my HTML and CSS skills with [FrontEnd Mentor](https://www.frontendmentor.io/).
 - 💬 Ask me about Lego EV3 robotics, and teaching children to code!  
@@ -11,13 +10,16 @@
 
 ## Technical Experience
 ### Languages
-Typescript, JavaScript, HTML, CSS, MySQL, Python, Ruby
+Typescript, JavaScript, HTML, CSS, MySQL, Twig, Python, Ruby
 
 ### Physical Computing
 [Raspberry Pi](https://www.raspberrypi.com/), [Lego EV3 Robots](https://education.lego.com/en-us/products/lego-mindstorms-education-ev3-core-set/5003400#lego-mindstorms-education-ev3), [Abilix School Series Robots](http://www.wergame.org/), [MiRoCODE](https://www.miro-e.com/)
 
 ### Frameworks and Version Control
-GitHub, Express, React, Vue, Node, Yarn, Postman, Git
+GitHub, GitLab, Express, React, React Native, Vue, Node, Yarn, Postman, Git
+
+### CMS environments
+Sanity, Craft, WordPress
 
 ### Coding Practice
 CodeWars, CodeCademy, HackerRank, Free Code Camp
